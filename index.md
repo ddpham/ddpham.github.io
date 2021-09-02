@@ -2,34 +2,16 @@
 
 ---
 
-### Category Name 1 
+### Ranalytics.vn
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Ranalytics.vn](http://ranalytics.vn/e)
+RAnalytics là một nhóm những người sử dụng R, nghiện phân tích số liệu, chuyên về phân tích, trực quan hóa số liệu & xây dựng các mô hình dự báo. Chúng tôi cung cấp các khóa học về R với nhiều chủ đề khác nhau cũng như tư vấn và xử lý các vấn đề khác nhau về phân tích dữ liệu và nghiên cứu thị trường. Chúng tôi thích thảo luận và xử lý các vấn đề thực tế trong phân tích kinh doanh. Các thành viên có hơn 10 năm kinh nghiệm trong phân tích kinh doanh, khoa học số liệu, nghiên cứu thị trường và phát triển website, trong nhiều lĩnh vực khác nhau, gồm có ngân hàng, Mobile, thương mại điện tử và công nghệ thông tin. Sứ mệnh của chúng tôi là đưa sức mạnh của R, phần mềm phân tích mạnh nhất hiện nay, đến với Việt Nam
 
 ---
 
-### Category Name 2
+### Các bài viết
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Frequent pattern mining](https://github.com/ddpham/Frequent-Pattern-Mining-Basics#readme)
 
 ---
 
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
