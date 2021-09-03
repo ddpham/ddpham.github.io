@@ -13,13 +13,16 @@ là một nhóm những người sử dụng R, nghiện phân tích số liệu
 # Các bài viết
 ---
 
-## R
-
-- [Frequent pattern mining](https://github.com/ddpham/Frequent-Pattern-Mining-Basics#readme)
+### Frequent pattern mining
+> [Frequent pattern mining](https://github.com/ddpham/Frequent-Pattern-Mining-Basics#readme)
+> `Frequent Pattern Mining` là khái niệm được dùng trong việc phân tích các hành vi lặp đi lặp lại giữa các yêu tố có liên hệ với nhau. FPM được sử dụng đặc biệt rộng rãi trong các ngành như ecommerce, banking, retail... giúp người bán có thể phân tích hành vi mua sắm của khách hàng
 <img src="images/AffinityAnalysis.png?raw=true"/>
+---
 
-- [Data wrangling with tidyverse](https://github.com/ddpham/data-wrangling-with-tidyverse)
+### Data wrangling with tidyverse
+> [Data wrangling with tidyverse](https://github.com/ddpham/data-wrangling-with-tidyverse)
+> `tidyverse` là tổ hợp các thư viện (package/library) được sử dụng trên R với những tính năng chuyên cho việc xử lý, tổng hợp dữ liệu, trực quan hóa dữ liệu (visualization)
+
 <img src="images/tidyverse.png?raw=true"/>
-
 ---
 
