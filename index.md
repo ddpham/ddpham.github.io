@@ -11,7 +11,7 @@ là một nhóm những người sử dụng R, nghiện phân tích số liệu
 
 ---
 
-# Các bài viết
+## Các bài viết
 
 ---
 
@@ -30,4 +30,3 @@ là một nhóm những người sử dụng R, nghiện phân tích số liệu
 <img src="images/tidyverse.png?raw=true"/>
 
 ---
-
