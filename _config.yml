@@ -3,7 +3,8 @@ logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Data Science Enthusiast
   <br><br>
-  <a href="https://www.linkedin.com/in/duc-pham-35910975/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/duc-pham-35910975/">LinkedIn</a>
+  <a href="https://github.com/ddpham">Github</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
