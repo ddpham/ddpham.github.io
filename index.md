@@ -15,6 +15,14 @@ là một nhóm những người sử dụng R, nghiện phân tích số liệu
 
 ---
 
+### Phân loại ảnh với máy học sâu
+> Đây là bài viết khá đơn giản về phân loại hình ảnh nhằm hỗ trợ việc thực hành khóa học `Practical Deep Learning for Coders` do Jeremy Howard (người đồng sáng lập ra `fast.ai`) và các đồng nghiệp. Với chủ đề về hình ảnh, tôi chọn chim yến (swift) và chim én (swallow) để làm chủ đề phân loại hình ảnh. Ngoài ra, trong bài viết cũng có sử dụng cả tensorflow/keras để giúp bản thân có sự so sánh về việc sử dụng `fastai/pytorch` với `tensorflow/keras`.
+>
+> Chi tiết bài viết xem tại đây: [swift swallow classification](https://github.com/ddpham/swift_swallow_classification)
+<img src="images/swift_swallow.png?raw=true"/>
+
+---
+
 ### Frequent pattern mining
 > `Frequent Pattern Mining` là khái niệm được dùng trong việc phân tích các hành vi lặp đi lặp lại giữa các yêu tố có liên hệ với nhau. FPM được sử dụng đặc biệt rộng rãi trong các ngành như ecommerce, banking, retail... giúp người bán có thể phân tích hành vi mua sắm của khách hàng.
 >
