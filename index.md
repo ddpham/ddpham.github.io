@@ -21,11 +21,10 @@ là một nhóm những người sử dụng R, nghiện phân tích số liệu
 > Chi tiết bài viết xem tại đây: [swift swallow classification](https://github.com/ddpham/swift_swallow_classification)
 <img src="images/swift_swallow.png?raw=true"/>
 
-https://mybinder.org/v2/gh/ddpham/swift_swallow_classification/master?urlpath=https%3A%2F%2Fgithub.com%2Fddpham%2Fswift_swallow_classification%2Fblob%2Fmaster%2Fnbs%2Ffastai_inference.ipynb
+[Hãy ấn vào đây](https://mybinder.org/v2/gh/ddpham/swift_swallow_classification/master?filepath=%2Fvoila%2Frender%2Ffastai_inference.ipynb)
 
-Hãy thử với 2 link sau:
+Sau đó vào `nbs/fastai_inference.ipynb` và thử nghiệm với 2 link sau:
 https://en.wikipedia.org/wiki/Swift_(bird)#/media/File:Apus_apus_01.jpg
-
 https://en.wikipedia.org/wiki/Swallow#/media/File:Wire_tailed_swallow2_@kannur.jpg
 
 ---
